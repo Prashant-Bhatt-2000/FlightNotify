@@ -142,15 +142,15 @@
 
     API : http://localhost:8000/api/flight/getflights
 
-----
 
-# THANK YOU
 
     MyBookings : 
 
     API : http://localhost:8000/api/flight/mybookings
 
+----
 
+# THANK YOU
 
 
 ---
