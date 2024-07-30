@@ -150,6 +150,27 @@
 
 ----
 
+### Frontend Routes
+
+### ADMIN ROUTES
+
+    1. /admin (admin auth needed)
+    2. /admin/login
+
+    (Note : Admin Signup can only be done by backend api through Postman or thunderclient)
+
+### Customer Routes (only for customers)
+
+    1. /signin
+    2. /signup
+    3. /flights (auth needed)
+    4. /bookings (auth needed)
+
+### Public Routes (open to anyone- No auth needed)
+
+    1. /
+    2. /contactus
+
 # THANK YOU
 
 
