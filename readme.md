@@ -103,8 +103,9 @@
 
 
 ### FlightOperations
-<!-- TOKEN NEEDED -->
-<!-- Bearer <TOKEN> -->
+
+    <!-- TOKEN NEEDED for all Flight Operations -->
+    <!-- Bearer <TOKEN> -->
 
     ADMIN ONLY ROUTE : 
 
