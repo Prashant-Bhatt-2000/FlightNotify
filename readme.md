@@ -20,6 +20,9 @@
 
 ---
 
+### Full Deployed Version (Including Postgres)
+Git repo : https://github.com/Prashant-Bhatt-2000/FlightNotify_Backend
+
 ### Requirement 
 
 #### Before starting Please setup your Email
