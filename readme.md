@@ -4,7 +4,7 @@
 
     1. Backend: Django 
     2. Frontend : React Js
-    3. Data Base : Postgres
+    3. DataBase : Postgres
 
 
 ### Authentication : Multi user (Admin , Customer)
