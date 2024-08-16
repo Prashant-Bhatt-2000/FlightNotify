@@ -20,7 +20,7 @@
 
 ---
 
-### Full Deployed Version of Back-end (Including Postgres) + Dokerize
+### Full Deployed Version of Back-end (Including Postgres) + Dockerize
 Git repo : https://github.com/Prashant-Bhatt-2000/FlightNotify_Backend
 
 ### Dockerize Frontend
